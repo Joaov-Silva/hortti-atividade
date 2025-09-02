@@ -1,6 +1,6 @@
 # Hortti — Hortifruti Fresco
 **Aluno:** João Vitor Silva de Souza
-**Turma:** [Identificação]
+**Turma:** DEV 1N231-3
 ## Descrição
 Site estático temático de agricultura/hortifruti para prática de 
 deploy via Vercel CLI.
